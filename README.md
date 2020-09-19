@@ -1,22 +1,22 @@
 # Grab Landing Page
 🛬 Grab Landing Page is a React Native application run on iOS which is adapt from Grab application only first landing page.
 
-# Screnshoot
+## Screnshoot
 
-![alt_text](sc/screenshoot.png)
+![alt_text](sc/sc.png)
 
-# Installation
+## Installation
 ```
 npm install
 pod install
 ```
 
-# Run Project
+## Run Project
 ```
 npm start
 ```
 
-# Run On iOS Emulator
+## Run On iOS Emulator
 ```
 react-native run-ios
 ```
